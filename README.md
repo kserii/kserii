@@ -6,4 +6,3 @@
 
 Мои контакты:
 - Telegram: @srz_konst
-- Блог: @jojopko_dev
